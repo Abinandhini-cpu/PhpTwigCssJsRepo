@@ -1,4 +1,4 @@
 [scan_config]
 ignore = [
-    '**/user-home.html.twig'
+    '**/*User.php'
 ]
