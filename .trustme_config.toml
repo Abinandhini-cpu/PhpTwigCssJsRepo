@@ -1,4 +1,4 @@
 [scan_config]
 ignore = [
-    '**/*Controller.php'
+    'src/Yeskn/MainBundle/Resources/config/'
 ]
