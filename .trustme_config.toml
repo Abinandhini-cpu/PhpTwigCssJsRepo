@@ -1,4 +1,4 @@
 [scan_config]
 ignore = [
-    '**/node_modules/'
+    './composer.lock'
 ]
